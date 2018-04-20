@@ -1,0 +1,12 @@
+[INFO] [2016-05-23 17:26:42][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2016-05-23 17:26:43][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@3dd3bcd: startup date [Mon May 23 17:26:43 CST 2016]; root of context hierarchy
+[INFO] [2016-05-23 17:26:43][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2016-05-23 17:26:43][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2016-05-23 17:26:43][com.test.TestMyBatis]{"address":"ÉÏº£","age":23,"id":1,"userName":"admin"}
+[INFO] [2016-05-23 17:26:43][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@3dd3bcd: startup date [Mon May 23 17:26:43 CST 2016]; root of context hierarchy
+[INFO] [2016-05-23 17:27:14][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2016-05-23 17:27:14][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@3dd3bcd: startup date [Mon May 23 17:27:14 CST 2016]; root of context hierarchy
+[INFO] [2016-05-23 17:27:15][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2016-05-23 17:27:15][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2016-05-23 17:27:15][com.test.TestMyBatis]{"address":"ä¸Šæµ·","age":23,"id":1,"userName":"admin"}
+[INFO] [2016-05-23 17:27:15][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@3dd3bcd: startup date [Mon May 23 17:27:14 CST 2016]; root of context hierarchy
